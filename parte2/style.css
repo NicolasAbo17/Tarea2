@@ -1,0 +1,26 @@
+
+#banner{
+    background-color: #594b3d;
+    height: 100px;
+}
+
+#leftMenu{
+    background-color: #f99a3e;
+}
+
+#topMenu{
+    background-color: #c39182;
+}
+
+#mainContent{
+    height: 260px;
+    line-height: 260px;
+}
+
+#photo1{
+    background-color: #c5697a;
+}
+
+#photo2{
+    background-color: #00a2b6;
+}
